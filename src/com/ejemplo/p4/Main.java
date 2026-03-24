@@ -5,7 +5,6 @@ public class Main {
 	public static void main(String[] args) {
 		System.out.println("Practica 4 - Git casos reales");
 	    System.out.println("Nombre Apellidos");
-	    System.out.println("Parrafo adicional para el punto 4.1");
-	}
+	} 
 
 }
